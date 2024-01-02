@@ -38,3 +38,7 @@ Here are some of my notable projects:
 2. [Scrollable Timelapse](timelapse.tobiastoegel.com)
 
 Check out my [portfolio](tobiastoegel.com) for a complete list of my projects.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tobitgl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-tögel)
+
