@@ -26,15 +26,15 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 ## My Skills
 
 - Programming Languages: Java, JavaScript, Python, Terraform
-- Web Development: [List of Frameworks, Libraries]
-- Databases: [List of Databases]
-- Tools & Technologies: [List of Tools and Technologies]
+- Web Development: Express.js, Flutter, NestJS, Node.js, React, Vue.js, SpringBoot, Quarkus
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Technologies: AWS, Azure, Cucumber, Docker, Google Cloud Plattform
 
 ## Projects
 
 Here are some of my notable projects:
 
-1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project): Brief description.
+1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  .
 2. [Scrollable Timelapse](timelapse.tobiastoegel.com)
 
 Check out my [portfolio](tobiastoegel.com) for a complete list of my projects.
