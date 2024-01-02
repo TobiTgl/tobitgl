@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Tobi! 👋
 
-I'm a CS (M.Sc.) student based in Constance, Germany. Welcome to my GitHub profile! 🚀
+I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies/Frameworks you are learning]
-- 💬 Ask me about [Your Expertise/Interests]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 I’m currently working on multiple 
+- 👨‍🎓 I’m currently studying Computer Science at HTWG Constance
+- 🤙 Hobbies/Interests: Running, Skiing, Photography/Timelapse Videography, FPV Droning, Motorsports
 
 ## My Skills
 
-- Programming Languages: [List of Languages]
+- Programming Languages: Java, JavaScript, Python, Terraform
 - Web Development: [List of Frameworks, Libraries]
 - Databases: [List of Databases]
 - Tools & Technologies: [List of Tools and Technologies]
@@ -36,8 +34,7 @@ I'm a CS (M.Sc.) student based in Constance, Germany. Welcome to my GitHub profi
 
 Here are some of my notable projects:
 
-1. [Project 1 Name](Link to Project 1): Brief description.
-2. [Project 2 Name](Link to Project 2): Brief description.
-3. [Project 3 Name](Link to Project 3): Brief description.
+1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project): Brief description.
+2. [Scrollable Timelapse](timelapse.tobiastoegel.com)
 
-Check out my [portfolio](Link to Portfolio) for a complete list of my projects.
+Check out my [portfolio](tobiastoegel.com) for a complete list of my projects.
