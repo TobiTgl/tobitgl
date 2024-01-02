@@ -22,7 +22,7 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## About Me
 
-- 🔭  I’m currently working on study related projects including:
+- 👨‍💻  I’m currently working on study related projects including:
   - SportIQConnect (Cloud Development)
   - HTWG Learning App (Live Quiz & Feedback App for lectures)
   - KudoHub (Agile Methods & Mobile Communication Project in collaboration with [Sybit](https://www.sybit.de/) [Flotteladen](https://flotteladen.de/))
