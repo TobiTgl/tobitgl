@@ -35,7 +35,7 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 - Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![TypeScript]]
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 - Java, JavaScript, Python, Terraform
 - Web Development: Express.js, Flutter, NestJS, Node.js, React, Vue.js, SpringBoot, Quarkus
