@@ -33,7 +33,10 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## Skills
 
-- Programming Languages: Java, JavaScript, Python, Terraform
+- Programming Languages:
+ [![JavaScript][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))]
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+- Java, JavaScript, Python, Terraform
 - Web Development: Express.js, Flutter, NestJS, Node.js, React, Vue.js, SpringBoot, Quarkus
 - Databases: MySQL, PostgreSQL, MongoDB
 - Tools & Technologies: AWS, Azure, Cucumber, Docker, Github Actions, Google Cloud Plattform
