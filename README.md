@@ -43,6 +43,6 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 Here are some of my notable projects:
 
 1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  Cloud Development Project using modern cloud technologies.
-2. [Scrollable Timelapse](timelapse.tobiastoegel.com)
+2. [Scrollable Timelapse](http://timelapse.tobiastoegel.com)
 
 Check out my [portfolio](tobiastoegel.com) for a complete list of my projects.
