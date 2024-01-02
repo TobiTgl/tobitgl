@@ -32,18 +32,32 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 - 🎧 (Oldschool) Hip-Hop, House, DNB, Dubstep, Jungle, UKG, Techno
 
 ## Skills
-
-- Programming Languages:
+### Programming Languages:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-- Java, JavaScript, Python, Terraform
-- Web Development: Express.js, Flutter, NestJS, Node.js, React, Vue.js, SpringBoot, Quarkus
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools & Technologies: AWS, Azure, Cucumber, Docker, Github Actions, Google Cloud Plattform
+
+### Web Development:
+
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Quarkus](	https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
+### Databases:
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies: AWS, Azure, Cucumber, Docker, Github Actions, Google Cloud Plattform
+![Quarkus]()
 
 ## Projects
 
