@@ -64,9 +64,11 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## Projects
 
@@ -75,4 +77,4 @@ Here are some of my notable projects:
 1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  Cloud Development Project using modern cloud technologies.
 2. [Scrollable Timelapse](http://timelapse.tobiastoegel.com)
 
-Check out my [portfolio](tobiastoegel.com) for a complete list of my projects.
+Check out my [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](tobiastoegel.com) for a complete list of my projects.
