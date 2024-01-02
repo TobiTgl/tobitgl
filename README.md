@@ -22,12 +22,12 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## About Me
 
-- 👨‍💻  I’m currently working on study related projects including:
+- 👨‍💻  I’m working on study-related projects including:
   - SportIQConnect (Cloud Development)
-  - HTWG Learning App (Live Quiz & Feedback App for lectures)
+  - HTWG Learning App (two-semester team project)
   - KudoHub (Agile Methods & Mobile Communication Project in collaboration with [Sybit](https://www.sybit.de/) [Flotteladen](https://flotteladen.de/))
 - 👨‍🎓 Information Technology (B.Eng.), Information Management Automotive (B.Sc.)
-- 🔄 I’m studying Computer Science at HTWG Constance
+- 🔄 Currently studying Computer Science at HTWG Constance
 - 🤙 Hobbies/Interests: Running, Skiing, Photography/Timelapse Videography, FPV Droning, Motorsports
 - 🎧 (Oldschool) Hip-Hop, House, DNB, Dubstep, Jungle, UKG, Techno
 
@@ -79,13 +79,11 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![GCP]()
 
 ## Projects
-
 Here are some of my notable projects:
-
-1. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  Cloud Development Project using modern cloud technologies.
-2. [Scrollable Timelapse](http://timelapse.tobiastoegel.com)
+1. [HTWG Learning App]:  Live Quiz & Feedback App for lectures.
+2. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  Cloud Development Project using modern cloud technologies.
+3. [Scrollable Timelapse](http://timelapse.tobiastoegel.com)
 
 Check out my [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tobiastoegel.com) for a complete list of my projects.
