@@ -82,7 +82,7 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## Projects
 Here are some of my notable projects:
-1. [HTWG Learning App]:  Live Quiz & Feedback App for lectures.
+1. HTWG Learning App:  Live Quiz & Feedback App for lectures.
 2. [SportIQConnect](https://github.com/HTWG-Nowak/cloud-project):  Cloud Development Project using modern cloud technologies.
 3. [Scrollable Timelapse](http://timelapse.tobiastoegel.com)
 
