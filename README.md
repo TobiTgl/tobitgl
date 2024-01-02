@@ -22,7 +22,10 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## About Me
 
-- 🔭 I’m currently working on study related projects including: SportIQConnect (Cloud Development), HTWG Learning App (Live Quiz & Feedback App for lectures), KudoHub (Agile Methods & Mobile Communication in collaboration with [Sybit](https://www.sybit.de/) [Flotteladen](https://flotteladen.de/))
+- 🔭 I’m currently working on study related projects including:
+  - SportIQConnect (Cloud Development)
+  - HTWG Learning App (Live Quiz & Feedback App for lectures)
+  - KudoHub (Agile Methods & Mobile Communication in collaboration with [Sybit](https://www.sybit.de/) [Flotteladen](https://flotteladen.de/))
 - 👨‍🎓 I’m studying Computer Science at HTWG Constance
 - 🤙 Hobbies/Interests: Running, Skiing, Photography/Timelapse Videography, FPV Droning, Motorsports
 - 🎧 (Oldschool) Hip-Hop, House, DNB, Dubstep, Jungle, UKG, Techno
