@@ -22,8 +22,8 @@ I'm a computer science (M.Sc.) student based in Constance, Germany. Welcome to m
 
 ## About Me
 
-- 👨‍💻  I’m working on study-related projects including:
-  - HTWG Learning App (two-semester team project)
+<!--- 👨‍💻  I’m working on study-related projects including:
+  - HTWG Learning App (two-semester team project)-->
 - 👨‍🎓 Information Technology (B.Eng.), Information Management Automotive (B.Sc.)
 - 🔄 Currently studying Computer Science at HTWG Constance
 - 🤙 Hobbies/Interests: Running, Skiing, Photography/Timelapse Videography, FPV Droning, Motorsports
